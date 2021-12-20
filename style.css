@@ -1,0 +1,299 @@
+body{
+    zoom: 110%;
+    overflow-x: hidden;
+}
+header{
+position: absolute;
+width: 100%;
+left: 0px;
+top: 0px;
+display: flex;
+}
+
+
+.blue{
+position: absolute;
+width: 100%;
+height: 193px;
+left: 0px;
+top: 0px;
+display: flex;
+background: #00114E;
+}
+
+nav{
+position: absolute;
+display: flex;
+justify-content: space-around;
+width: 100%;
+height: 113px;
+left: 0px;
+top: 193px;
+
+background: #04427B;
+}
+
+nav a{
+    padding-top: 30px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFFFFF;
+}
+
+.line{
+    position: absolute;
+width: 100%;
+height: 69px;
+left: 0;
+top: 299px;
+display: flex;
+background: #1C5A94;
+}
+.second a {
+    height: 100px;
+    width: 100px;
+}
+.first{
+position: absolute;
+width: 100%;
+height: 896px;
+left:0px;
+top: 368px;
+background-image: url(bg.png);
+background-size: 100%;
+}
+
+.second{
+position: absolute;
+width: 100%;
+height: 861px;
+left: -0px;
+top: 1264px;
+
+background: #021764;
+}
+.second p{
+    position: relative top;
+    margin-left:100px ;
+}
+
+.second img {
+    border-radius: 500px;
+    width: 80px;
+    height: 80px;
+}
+
+.third{
+    position: absolute;
+width: 100%;
+height: 1111px;
+left: 0px;
+top: 2126px;
+}
+.four{
+    position: absolute;
+width: 100%;
+height: 1614px;
+left: 0px;
+top: 3237px;
+
+background: #1C5A94;
+}
+
+.article {
+    margin: 30px;
+position: relative;
+float: left;
+}
+.article img{
+    height: 309px;
+
+}
+.article p{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+text-align: center;
+color: #00114E;
+}
+
+.third h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 100px;
+line-height: 117px;
+text-align: center;
+color: #00114E;
+}
+
+
+.span{
+position: relative;
+width: 1939px;
+height: 208px;
+left: 0px;
+top: 253px;
+
+background: #1686ED;
+}
+.video{
+    position: relative;
+width: 1939px;
+height: 208px;
+left: 0px;
+top: 353px;
+
+}
+.photo{
+    position: relative;
+    top: 100px;
+    left:50px;
+width: 902px;
+height: 727px;
+float: left;
+}
+.main{
+width: 674px;
+height: 419px;
+}
+.albom{
+width: 678px;
+height: 160px;
+}
+.albom img{
+    width: 208px;
+height: 151px;
+margin-left: 10px;
+margin-right: 5px;
+}
+.text{
+    float: left;
+    position: relative;
+    top: 100px;
+}
+.text p{
+    color: white;
+}
+.second h1{
+    position: relative;
+width: 400px;
+height: 199px;
+float: left;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 100px;
+
+color: #FFFFFF;
+}
+.pp {
+    background-color: gray;
+}
+.second article{
+    float: right;
+    position: relative;
+width: 449px;
+height: 163px;
+}
+.com{
+    bottom: 100px;
+    position: relative;
+width: 100%;
+height: 340px;
+left: 0px;
+float: left;
+}
+.com p{
+    position: relative;
+    float: left;
+    left: 0px;
+    width: 1040px;
+height: 140px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+
+color: #FFFFFF;
+}
+.com img{
+    position: relative;
+    display: block;
+    float: left;
+    left: 30px;
+    top: 20px;
+    width: 151px;
+    height: 157px;
+}
+.text_1{
+    position: relative;
+width: 1155px;
+height: 118px;
+left: 6px;
+float: left;
+top: -70px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 59px;
+
+color: #FFFFFF;
+}
+.text_1 a{
+    font-family: Roboto;
+font-size: 40px;
+color: #00FF19;
+}
+.four h1 {
+    position: relative;
+    top: 128px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 117px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.span p {
+    position: relative;
+    left: 36px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.pop{
+     position: relative;
+    left: 36px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+iframe{
+    position: relative;
+    left: 80px;
+}
